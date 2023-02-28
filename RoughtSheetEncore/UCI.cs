@@ -1206,8 +1206,6 @@ namespace RoughtSheetEncore
         }
         private void GoButton_Click(object sender, EventArgs e)
         {
-            var str = "test";
-            MessageBox.Show(str.GetType().ToString());
 
             //InitializeTourneyForm();
 
